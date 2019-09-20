@@ -60,7 +60,7 @@ article {
     width: 490px; 
     height: 200px;
     margin-top: 80px;
-    align-content: center;
+    text-align: center;
 }
 
 h1 {
@@ -71,6 +71,7 @@ h1 {
     background: #ebebeb;
     height: 40px;
     width: 470px;
+    margin-left: 10px;
 }
 
 p {
@@ -81,5 +82,6 @@ p {
     background: #ebebeb;
     height: 40px;
     width: 470px;
+    margin-left: 10px;
  }
 
